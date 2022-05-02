@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<style>
+ @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Caveat:wght@700&family=Comic+Neue:wght@700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap'); 
+ h1 {
+
+    font-family: 'Balsamiq Sans', 'Times New Roman', Times, serif;
+    color:cornflowerblue
+ }
+
+
+
+ html {
+  background-image: url(https://cdn.shopify.com/s/files/1/0533/2089/files/5-websites-to-download-free-subtle-textures-subtle.jpg?5724472906039650661);
+  font-family: 'Montserrat', 'Times New Roman', Times, serif;
+ }
+
+ img {
+
+  border-radius: 15px;
+  
+}
+
+footer {
+     
+  font-family: Montserrat, 'Times New Roman', Times, serif;
+  text-justify: auto;
+  text-align: center;
+  bottom: 10px;
+  left: 45vw;
+  font-size: 10px;
+}
+
+
+/*joke code*/
+
+@keyframes fade-in {
+       from {opacity: 0;}
+       to {opacity: 100;}
+}
+
+
+
+#extended-warranty-label { 
+
+opacity: 0;
+font-size: 3.5px;
+animation-fill-mode: forwards;
+}
+
+#extended-warranty-label:hover {
+
+  animation-name: fade-in;
+  animation-duration: 3s;
+  opacity: 100;
+  font-size: 15px;
+
+}
+
+/*end of joke code*/
+
+</style>
+<html lang="en">
+<head>
+<title>DogVideoApp</title>
+<meta charset="utf-8">
+<meta name="description" content="A place where you can submit and view cute dog videos!">
+<meta name="keywords" content="Dog, Video">
+<meta name="author" content="Armel Mahmutovic">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="./Assets/favicon.ico" type="image/x-icon">
+
+</head>
+ <body>
+<main>
+<h1><em>DogVideoApp</em></h1>
+<h2>Dog Videos</h2>
+<p>Click here to view more <a href="DogVideoApp Link.html" target="_blank">dog videos.</a></p>
+<section>
+  <video width="420" height="340" controls>
+    <source src="Assets/Pomeranian Puppies.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</section>
+<section>
+<h2>Dog Lists</h2>
+<h3>Things dogs love:</h3>
+
+<ul>
+  <li>Treats</li>
+  <li>Belly Rubs</li>
+  <li>Being a good boy</li>
+</ul>
+<figure>
+<img src="http://www.riverdalevetgroup.com/images/articles/jerky/jerky-dog.jpg" alt="Dog eating a piece of beef jerky">
+<figcaption>Dogs <em>love</em> beef jerky.</figcaption>
+</figure>
+
+<h3>Top 3 things dogs hate:</h3>
+
+<ol>
+  <li>Fireworks</li>
+  <li>Dog Whistle</li>
+  <li>Getting Nails Trimmed</li>
+</ol>
+<figure>
+<img src="https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/a/55/a553e444-7be1-11e8-997a-63214605876b/5b36a1abddae3.image.jpg" alt="Dog hiding under blanket from fireworks"height="200px">
+<figcaption>Dogs <b>hate</b> loud sounds.</figcaption>
+</figure>
+</section>
+
+<form action="DogVideoApp Form Submit.html">
+<h2>Dog Form</h2>
+<fieldset>
+<legend>Is your dog an Indoor or Outdoor dog?</legend>
+<input type="radio" id="indoor" name="indoor-outdoor" value="indoor" checked> <label for="indoor">Indoor</label>
+<input type="radio" id="outdoor" name="indoor-outdoor" value="outdoor"> <label for="outdoor">Outdoor</label>
+</fieldset>
+
+<fieldset>
+  <legend>What is your dog's personality? Check all that apply</legend>
+<input type="checkbox" id="Loving" name="personality" value="Loving" checked> <label for="Loving">Loving</label>
+<input type="checkbox" id="Lazy" name="personality" value="Lazy"> <label for="Lazy">Lazy</label>
+<input type="checkbox" id="Hyper" name="personality" value="Hyper"> <label for="Hyper">Hyper</label>
+<input type="checkbox" id="extended-warranty" name="personality" value="Extended Warranty"> <label for="Extended Warranty" id="extended-warranty-label">We've been trying to reach you concerning your vehicle's extended warranty. You should've received a notice in the mail about your car's extended warranty eligibility. Since we've not gotten a response, we're giving you a final courtesy call before we close out your file. Press 2 to be removed and placed on our do-not-call list. To speak to someone about possibly extending or reinstating your vehicle's warranty, press 1 to speak with a warranty specialist.</label>
+</fieldset>
+<input type="url" placeholder="Dog Video URL"required> <button type="submit">Submit</button>
+<form></form>
+</main>
+</body>
+<footer>
+    <p id="footer">totally not a ripoff of <a href="https://www.freecodecamp.org" target="_blank">freecodecamp</a> lmao</p>
+</footer>
+</html>
