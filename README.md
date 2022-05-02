@@ -7,7 +7,7 @@ A little mock-up site i created mirroring the site CatVideoApp from [FreeCodeCam
 
 Download as zip and open the file "DogVideoApp.html" to get started on the main page. Also, don't touch anything else from the folder, as that may cause some elements on the page to break or not load correctly
 
-### Attributions
+#### Attributions
 
 [FreeCodeCamp's CatVideoApp Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) for the original idea and design
 
