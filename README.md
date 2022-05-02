@@ -11,4 +11,4 @@ Download as zip and open the file "DogVideoApp.html" to get started on the main 
 
 [FreeCodeCamp's CatVideoApp Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) for the original idea and design
 
-[Armel081 (aka me)](https://github.com/Armel081) for all of the original code and other design touchups.
+[Armel081 (aka me)](https://github.com/Armel081) for all of the code and some other miscellaneous design touchups.
