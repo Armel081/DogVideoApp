@@ -9,6 +9,6 @@ Click on "**Code**" at the top, download as ZIP, extract the ```DogVideoApp-main
 
 #### Attributions
 
-[FreeCodeCamp's CatVideoApp Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) for the original idea and base design
+[FreeCodeCamp's CatVideoApp Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) for the original idea and base design.
 
 [Armel081 (aka me)](https://github.com/Armel081) for the code itself and some other changes to the original design.
