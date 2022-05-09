@@ -5,7 +5,7 @@ A little mock-up site i created mirroring the CatPhotoApp site from [FreeCodeCam
 
 ### INSTRUCTIONS
 
-Click on "**Code**" at the top, download as ZIP, extract the ```DogVideoApp-main``` folder, and open the file ```DogVideoApp.html``` to get started on the main page. Also, don't touch anything else from the folder, as that may cause elements on the page to break and/or not load correctly.
+Click on "**Releases**" at the right side of the repository page, download the latest version of the ``` DogVideoApp-release.zip``` file, extract the ```DogVideoApp-release``` folder, and open the file ```DogVideoApp.html``` to get started on the main page. Also, don't touch anything else from the folder, as that may cause elements on the page to break and/or not load correctly.
 
 #### Attributions
 
