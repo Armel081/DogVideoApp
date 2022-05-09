@@ -1,0 +1,5 @@
+Hello there! In case you haven't already, extract the folder "DogVideoApp-release" to somewhere on your computer, 
+and double click on the file "DogVideoApp.html" to open the website. Also, don't touch anything else from the folder, 
+as that might break some stuff on the website. Other than that, have fun!
+
+-Armel
