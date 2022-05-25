@@ -7,6 +7,9 @@ A little mock-up site i created mirroring the CatPhotoApp site from [FreeCodeCam
 
 Go to the <ins>[**Releases**](https://github.com/Armel081/DogVideoApp/releases)</ins> page, download the latest version of the ``` DogVideoApp-release.zip``` file, extract the ```DogVideoApp-release``` folder, then open up ```Sites``` and click on ```DogVideoApp.html``` to get started on the main page. Also, don't touch anything else from the folder, as that may cause elements on the page to break and/or not load correctly.
 
+### DISCLAIMER
+I am not directly affiliated with any part of FreeCodeCamp's platform or curriculumn, or with any of the individuals who run and maintain it. I am simply a user of their platform, and this site was created for my own practicing purposes. This site is also purely intended for fun, and does not provide any actual services to the general public.
+
 #### Attributions
 
 [FreeCodeCamp's CatVideoApp Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) for the original idea and base design.
